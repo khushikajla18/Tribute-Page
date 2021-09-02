@@ -1,0 +1,24 @@
+body {
+  background-color: #00FA9A;
+  margin: 50px;
+  font-size: 4vh;
+  padding: 30px 50px;
+  text-align: center;
+}
+img {
+  display: inline-block;
+  width: 600px;
+}
+#caption {
+  font-size: 20px;
+  font-family: Gill Sans;
+}
+}
+p {
+  margin: 60px;
+  size: 50px;
+}
+div#tribute-page {
+  margin: 50px:
+    text-align: center;
+}
